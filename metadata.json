@@ -1,0 +1,6 @@
+{
+  "name": "Поле Чудес: Español Fútbol Quiz",
+  "description": "Интерактивная игра Поле Чудес для изучения испанского языка с армянским переводом на футбольную тему",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
